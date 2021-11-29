@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HernanGit2022/Prueba_Git/issues"
   },
-  "homepage": "https://github.com/HernanGit2022/Prueba_Git#readme"
+  "homepage": "https://github.com/HernanGit2022/Prueba_Git#readme",
+  "dependencies": {
+    "chalk": "^4.0.0"
+  }
 }
