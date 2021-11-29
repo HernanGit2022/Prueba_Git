@@ -1,0 +1,19 @@
+{
+  "name": "hernan_clase1",
+  "version": "1.0.0",
+  "description": "<<<<<<< HEAD\r # Hernan Alvarez\r =======\r # Prueba_Git\r Proyecto creado por el semillero de desarrollo de software\r >>>>>>> 60aec412c40902beb1baa1e31174b61b23478972",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HernanGit2022/Prueba_Git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HernanGit2022/Prueba_Git/issues"
+  },
+  "homepage": "https://github.com/HernanGit2022/Prueba_Git#readme"
+}
